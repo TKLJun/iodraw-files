@@ -10,6 +10,12 @@
         <mxCell id="Vnlhjj4RoVr6uFPX9ZLV-12" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;305&lt;/font&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="210" width="400" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Vnlhjj4RoVr6uFPX9ZLV-14" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;306&lt;/font&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnlhjj4RoVr6uFPX9ZLV-15" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;306&lt;/font&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
